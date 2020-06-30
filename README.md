@@ -1,6 +1,6 @@
-# loventure
+# Loventure
 
-Loventure
+This application counts days in status: being single or in relationship.
 
 ## Getting Started
 
