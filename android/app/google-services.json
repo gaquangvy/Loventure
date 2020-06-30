@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916310574226",
+    "firebase_url": "https://loventure-6d6ec.firebaseio.com",
+    "project_id": "loventure-6d6ec",
+    "storage_bucket": "loventure-6d6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916310574226:android:fa35c1098ebfe99a3a524b",
+        "android_client_info": {
+          "package_name": "cpp.baevee.loventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916310574226-pni5ua79jdm3bqkijmf2bd455ktr16fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavfQi3r29VtbYFmjPsHXsFz3qm5zbSSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916310574226-pni5ua79jdm3bqkijmf2bd455ktr16fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
