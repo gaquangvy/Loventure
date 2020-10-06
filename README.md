@@ -1,16 +1,7 @@
 # Loventure
 
-This application counts days in status: being single or in relationship.
+This project is from CS 4990 in Summer 2020 at Cal Poly Pomona and taught by Dr. Yu Sun. It is Flutter's Development and allows using Dart programming (Java-base) and Flutter modules. I created this project by my idea but still under the instuction from Dr Yu Sun.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The project's objects are to measure time, save pictures and stories, and remind an event for user. I would like to develop this project that the application can socialize like Facebook and Instagram.
